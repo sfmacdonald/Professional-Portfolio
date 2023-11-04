@@ -18,7 +18,7 @@ The purpose of the website is to bring attention to prosepective employers my ca
 
 * "About Me" section to provide details about who I am to prospective employers
 * Links to contact information
-* Resume presetning previous work history
+* Resume presenting previous work history
 * Link to my GitHub repo for review by prospective employers
 
 
