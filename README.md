@@ -26,7 +26,7 @@ The purpose of the website is to bring attention to prosepective employers my ca
 
 The github repository may be found at https://github.com/sfmacdonald/Professional-Portfolio
 
-The live URL for the working website is 
+The live URL for the working website is https://sfmacdonald.github.io/Professional-Portfolio/
 
 When accessed, the website should look reflect the following image:
 
